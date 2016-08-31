@@ -17,6 +17,11 @@
     
     
     <dependencies>
+        <dependency>
+            <groupId>com.bytesw</groupId>
+            <artifactId>byteXDF4Java-data</artifactId>
+            <version>1.35</version>
+        </dependency>
         
        <dependency>
             <groupId>org.eclipse.persistence</groupId>
@@ -119,6 +124,12 @@
             <version>4.1.8.RELEASE</version>
         </dependency>
         
+        <dependency>
+            <groupId>com.ibm</groupId>
+            <artifactId>jt400</artifactId>
+            <version>6.1.0</version>
+            <scope>provided</scope>
+        </dependency>
         
         <dependency>
             <groupId>com.oracle</groupId>
