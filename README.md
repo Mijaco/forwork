@@ -1,1 +1,1 @@
-# forwork utilitarios para el trabajo con miras a portab..
+# Ejemplos de persistencia con hibernate, springjdbc etc..
